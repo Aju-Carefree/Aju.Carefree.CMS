@@ -1,0 +1,11 @@
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\bin\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.deps.json
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\bin\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.dll
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\bin\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.pdb
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\bin\Debug\netcoreapp3.1\Aju.Carefree.CMS.IRepository.dll
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\bin\Debug\netcoreapp3.1\Aju.Carefree.CMS.IRepository.pdb
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.csprojAssemblyReference.cache
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.AssemblyInfoInputs.cache
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.AssemblyInfo.cs
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.csproj.CopyComplete
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.dll
+E:\Aju\Code\OtherCode\Aju.Carefree.Cms\Aju.Carefree.CMS\Aju.Carefree.CMS\Aju.Carefree.CMS.Repository\obj\Debug\netcoreapp3.1\Aju.Carefree.CMS.Repository.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aju.Carefree.CMS.Dtos/1.0.0": {
+        "runtime": {
+          "Aju.Carefree.CMS.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aju.Carefree.CMS.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

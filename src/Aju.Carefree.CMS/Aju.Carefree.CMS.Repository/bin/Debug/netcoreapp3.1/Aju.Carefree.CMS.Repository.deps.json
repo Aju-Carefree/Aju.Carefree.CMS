@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aju.Carefree.CMS.Repository/1.0.0": {
+        "dependencies": {
+          "Aju.Carefree.CMS.IRepository": "1.0.0"
+        },
+        "runtime": {
+          "Aju.Carefree.CMS.Repository.dll": {}
+        }
+      },
+      "Aju.Carefree.CMS.IRepository/1.0.0": {
+        "runtime": {
+          "Aju.Carefree.CMS.IRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aju.Carefree.CMS.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aju.Carefree.CMS.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
