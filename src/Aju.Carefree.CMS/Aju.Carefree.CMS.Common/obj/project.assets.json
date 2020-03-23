@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\Aju.Carefree.CMS.Common.csproj",
+      "projectUniqueName": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\Aju.Carefree.CMS.Common.csproj",
       "projectName": "Aju.Carefree.CMS.Common",
-      "projectPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\Aju.Carefree.CMS.Common.csproj",
+      "projectPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\Aju.Carefree.CMS.Common.csproj",
       "packagesPath": "C:\\Users\\CoolBoy\\.nuget\\packages\\",
-      "outputPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\obj\\",
+      "outputPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

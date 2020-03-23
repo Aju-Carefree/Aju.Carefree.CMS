@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj": {}
+    "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj": {}
   },
   "projects": {
-    "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj": {
+    "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj",
+        "projectUniqueName": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj",
         "projectName": "Aju.Carefree.CMS.Tests",
-        "projectPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj",
+        "projectPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\Aju.Carefree.CMS.Tests.csproj",
         "packagesPath": "C:\\Users\\CoolBoy\\.nuget\\packages\\",
-        "outputPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\Aju.Carefree.CMS\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\obj\\",
+        "outputPath": "E:\\Aju\\Code\\OtherCode\\Aju.Carefree.Cms\\src\\Aju.Carefree.CMS\\Aju.Carefree.CMS.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
